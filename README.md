@@ -1,0 +1,2 @@
+# PRACTICA-POWER-MBA-EXCEL-DASHBOARD
+Análisis Económico de África 1980-2022
